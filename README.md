@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dimitri2590/Dimitri2590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +25,7 @@ Tester, me tromper, corriger, recommencer, comprendre pourquoi ça ne marche pas
 
 Au fil de mes projets, j’ai eu l’occasion de travailler sur plusieurs aspects du développement :
 - création d’API en C# / .NET
-- développement d’interfaces web
+- développement d’interfaces web 
 - gestion de bases de données SQL Server
 - utilisation de Git, GitHub et Azure DevOps
 - documentation technique, organisation de projet et débogage
@@ -39,8 +37,11 @@ Mon objectif, ce n’est pas juste de faire du code qui marche, mais de faire du
 - C# / .NET
 - React
 - JavaScript
-- HTML / CSS
+- Laravel
+- HTML / CSS / Bootstrap
+- Docker
+- Postgres
 - SQL Server
 - Git / GitHub / Azure DevOps
 
-Merci d’être passé sur mon profil.
+N'hésitez pas à me contacter via mon compte linkedin dont le lien est dans ma bio !
